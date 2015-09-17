@@ -1,0 +1,5 @@
+build
+dist
+private
+!/private
+.tmc_test_results.json
